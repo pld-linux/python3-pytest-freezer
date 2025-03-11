@@ -6,7 +6,7 @@ Summary:	Pytest plugin providing a fixture interface for freezegun
 Summary(pl.UTF-8):	Wtyczka pytesta dostarczająca wyposażenie będące interfejsem do modułu freezegun
 Name:		python3-pytest-freezer
 Version:	0.4.8
-Release:	2
+Release:	3
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pytest-freezer/
